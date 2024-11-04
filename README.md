@@ -1,0 +1,1 @@
+MedicaCore is a robust medical management system designed to streamline healthcare data handling for clinics and hospitals. It provides a structured database to manage patient records, doctor details, appointments, diagnoses, medications, test results, billing, and schedules with comprehensive SQL queries.
